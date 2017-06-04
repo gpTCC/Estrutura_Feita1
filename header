@@ -1,0 +1,52 @@
+<style>
+	li{
+		display: inline;
+	}
+	
+	a{
+		text-decoration:none;
+		margin-right:10px;
+		line-height: 3;
+	}
+
+	header{
+		height:50px;
+		width: 100%;
+		background:#00ffee;
+		text-align:center;
+	}
+	
+	.he{
+		color:#ccc;
+		font-size:20px;
+	}
+	
+	.hr{
+		width:25%;
+		float:left;
+	}
+	
+	*, *:before, *:after {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+</style>
+<header>
+	<nav>
+		<ul>
+			<div class="hr">
+			<li><a href="Index.php" class="he" class=""> Home </a></li>
+			</div>
+			<div class="hr">
+			<li><a href="Glossario.php" class="he"> Glossario </a></li>
+			</div>
+			<div class="hr">
+			<li><a href="logar.php" class="he"> Logar </a></li>
+			</div>
+			<div class="hr">
+			<li><a href="Contato.php" class="he"> Contato </a></li>
+			</div>
+		</ul>
+	</nav>
+</header>
