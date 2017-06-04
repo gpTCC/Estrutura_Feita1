@@ -1,0 +1,14 @@
+<style>
+	footer{
+		height:50px;
+		width: 100%;
+		background:#00ffee;
+		margin-left: auto;
+		margin-right: auto;
+		position:absolute;
+		bottom:0;
+	}
+</style>
+<footer>
+	
+</footer>
